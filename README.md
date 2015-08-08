@@ -2,6 +2,8 @@
 
 [![Main desktop browsers
 logos](main-desktop.png)](https://raw.github.com/alrra/browser-logos/master/main-desktop.png)
+[![Main mobile browsers
+logos](main-mobile.png)](https://raw.github.com/alrra/browser-logos/master/main-mobile.png)
 
 You may want these for a presentation, a blog post or for the site
 featuring your brand new awesome lightbox script (please no!). All
@@ -15,35 +17,17 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="360-secure"><img width=140 src="360-secure/360-secure_256x256.png" alt="360 Secure browser logo"></a> |
 
-### Adrenaline
-
-| [Adrenaline](http://www.adrenalinemobility.com/) |
-|:---:|
-| <a href="adrenaline"><img width=140 src="adrenaline/adrenaline_256x256.png" alt="Adrenaline browser logo"></a> |
-
 ### AirWeb
 
 | [AirWeb](http://airwebapp.com/) |
 |:---:|
 | <a href="airweb"><img width=140 src="airweb/airweb_256x256.png" alt="AirWeb browser logo"></a> |
 
-### AllInOne
+### Android
 
-| [AllInOne](http://www.allinonebrowser.com/) |
-|:---:|
-| <a href="allinone"><img width=140 src="allinone/allinone_256x256.png" alt="AllInOne browser logo"></a> |
-
-### Apollo
-
-| [Apollo](http://apollobrowser.wordpress.com/the-most-innovative-browser-for-ipad/) |
-|:---:|
-| <a href="apollo"><img width=140 src="apollo/apollo_256x256.png" alt="Apollo browser logo"></a> |
-
-### Atomic
-
-| [Atomic](http://atomicwebbrowser.com/) |
-|:---:|
-| <a href="atomic"><img width=140 src="atomic/atomic_256x256.png" alt="Atomic browser logo"></a> |
+| [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29) | [Android WebView<br>Beta](https://plus.google.com/+MattGaunt/posts/71X8tBLToLY) |
+|:---:|:---:|
+| <a href="android"><img width=140 src="android/android_256x256.png" alt="Android browser logo"></a> | <a href="android-webview-beta"><img width=140 src="android-webview-beta/android-webview-beta_256x256.png" alt="Android WebView Beta logo"></a> |
 
 ### Avant
 
@@ -59,51 +43,45 @@ logos are high resolution with transparent backgrounds.
 
 ### Baidu
 
-| [Baidu](http://imobile.baidu.com/browser/) |
+| [Baidu](https://global.baidu.com/browser/) |
 |:---:|
 | <a href="baidu"><img width=140 src="baidu/baidu_256x256.png" alt="Baidu browser logo"></a> |
 
 ### Boat
 
-| [Boat](http://www.boatmob.com/mobile/product_browser_free.html) | [Boat Mini](http://www.boatmob.com/mobile/product_browser_mini.html) |
-|:---:|:---:|
-| <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> | <a href="boat-mini"><img width=140 src="boat-mini/boat-mini_256x256.png" alt="Boat Mini browser logo"></a> |
-
-### Cheetah
-
-| [Cheetah](http://www.liebao.cn/) |
+| [Boat](http://www.boatmob.com/mobile/product_browser_free.html) |
 |:---:|
-| <a href="cheetah"><img width=140 src="cheetah/cheetah_256x256.png" alt="Cheetah browser logo"></a> |
+| <a href="boat"><img width=140 src="boat/boat_256x256.png" alt="Boat browser logo"></a> |
 
 ### Chrome
 
-| [Chrome](https://www.google.com/chrome/) | [Chrome (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta (Android)](http://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
-|:---:|:---:|:---:|:---:|
-| <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-android"><img width=140 src="chrome-android/chrome-android_256x256.png" alt="Chrome for Android browser logo"></a> | <a href="chrome-beta-android"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png" alt="Chrome Beta for Android browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
+| [Chrome](https://www.google.com/chrome/) | [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) |
+|:---:|:---:|
+| <a href="chrome"><img width=140 src="chrome/chrome_256x256.png" alt="Chrome browser logo"></a> | <a href="chrome-canary"><img width=140 src="chrome-canary/chrome-canary_256x256.png" alt="Chrome Canary browser logo"></a> |
+
+### Chrome for Android
+
+| [Chrome <br>(Android)](https://www.google.com/intl/en/chrome/browser/mobile/android.html) | [Chrome Beta <br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.beta) | [Chrome Dev<br>(Android)](https://play.google.com/store/apps/details?id=com.chrome.dev)
+|:---:|:---:|:---:|
+| <a href="chrome-android"><img width=140 src="chrome-android/chrome-android_256x256.png" alt="Chrome for Android browser logo"></a> | <a href="chrome-beta-android"><img width=140 src="chrome-beta-android/chrome-beta-android_256x256.png" alt="Chrome Beta for Android browser logo"></a> | <a href="chrome-dev-android"><img width=140 src="chrome-dev-android/chrome-dev-android_256x256.png" alt="Chrome Dev for Android browser logo"></a> |
 
 ### Chromium
 
-| [Chromium](http://www.chromium.org/Home) |
+| [Chromium](https://www.chromium.org/Home) |
 |:---:
 | <a href="chromium"><img width=140 src="chromium/chromium_256x256.png" alt="Chromium browser logo"></a> |
+
+### CM
+
+| [CM](https://www.cmcm.com/en-us/cm-browser/) |
+|:---:|
+| <a href="cm"><img width=140 src="cm/cm_256x256.png" alt="CM browser logo"></a> |
 
 ### Coast
 
 | [Coast](http://coastbyopera.com/) |
 |:---:|:---:|
 | <a href="coast"><img width=140 src="coast/coast_256x256.png" alt="Coast browser logo"></a> |
-
-### Cruz
-
-| [Cruz](http://cruzapp.com/) |
-|:---:|:---:|
-| <a href="cruz"><img width=140 src="cruz/cruz_256x256.png" alt="Cruz browser logo"></a> |
-
-### CXM Web
-
-| [CXM Web](https://itunes.apple.com/us/app/cxm-web-by-citrix/id666516824) |
-|:---:|:---:|
-| <a href="cxm-web"><img width=140 src="cxm-web/cxm-web_256x256.png" alt="CXM Web browser logo"></a> |
 
 ### Diigo
 
@@ -119,9 +97,9 @@ logos are high resolution with transparent backgrounds.
 
 ### Dolphin
 
-| [Dolphin (Android)](http://dolphin.com/) | [Dolphin (iOS)](http://dolphin.com/) | [Dolphin Zero](http://dolphin.com/) |
-|:---:|:---:|:---:|
-| <a href="dolphin-android"><img width=140 src="dolphin-android/dolphin-android_256x256.png" alt="Dolphin for Android browser logo"></a> | <a href="dolphin-ios"><img width=140 src="dolphin-ios/dolphin-ios_256x256.png" alt="Dolphin for iOS browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
+| [Dolphin](https://dolphin.com/) | [Dolphin Zero](https://dolphin.com/) |
+|:---:|:---:|
+| <a href="dolphin"><img width=140 src="dolphin/dolphin_256x256.png" alt="Dolphin browser logo"></a> | <a href="dolphin-zero"><img width=140 src="dolphin-zero/dolphin-zero_256x256.png" alt="Dolphin Zero browser logo"></a> |
 
 ### Dooble
 
@@ -129,77 +107,59 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="dooble"><img width=140 src="dooble/dooble_256x256.png" alt="Dooble browser logo"></a> |
 
+### Edge
+
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) |
+|:---:|
+| <a href="edge"><img width=140 src="edge/edge_256x256.png" alt="Microsoft Edge browser logo"></a> |
+
 ### Epic
 
-| [Epic](http://www.epicbrowser.com/) |
+| [Epic](https://www.epicbrowser.com/) |
 |:---:|
 | <a href="epic"><img width=140 src="epic/epic.png" alt="Epic browser logo"></a> |
 
-### Exsoul
-
-| [Exsoul](http://www.exsoul-browser.com/) |
-|:---:|
-| <a href="exsoul"><img width=140 src="exsoul/exsoul_256x256.png" alt="Exsoul browser logo"></a> |
-
-### Fake
-
-| [Fake](http://fakeapp.com/) |
-|:---:|
-| <a href="fake"><img width=140 src="fake/fake_256x256.png" alt="Fake browser logo"></a> |
-
 ### Firefox
 
-| [Firefox](http://www.mozilla.org/en-US/firefox/) | [Firefox Beta](http://www.mozilla.org/beta/) | [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) | [Firefox Nightly](http://nightly.mozilla.org/) |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | [Firefox Beta](https://www.mozilla.org/beta/) | [Firefox<br>Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) | [Firefox Nightly](https://nightly.mozilla.org/) |
 |:---:|:---:|:---:|:---:|
-| <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-aurora"><img width=140 src="firefox-aurora/firefox-aurora_256x256.png" alt="Firefox Aurora browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
+| <a href="firefox"><img width=140 src="firefox/firefox_256x256.png" alt="Firefox browser logo"></a> | <a href="firefox-beta"><img width=140 src="firefox-beta/firefox-beta_256x256.png" alt="Firefox Beta browser logo"></a> | <a href="firefox-developer-edition"><img width=140 src="firefox-developer-edition/firefox-developer-edition_256x256.png" alt="Firefox Developer Edition browser logo"></a> | <a href="firefox-nightly"><img width=140 src="firefox-nightly/firefox-nightly_256x256.png" alt="Firefox Nightly browser logo"></a> |
 
 ### iCab
 
-| [iCab Mobile](http://www.icab.de/mobile.html) |
+| [iCab (Mobile)](http://www.icab.de/mobile.html) |
 |:---:|
 | <a href="icab-mobile"><img width=140 src="icab-mobile/icab-mobile_256x256.png" alt="iCab Mobile browser logo"></a> |
 
 ### IceCat
 
-| [IceCat](http://www.gnu.org/software/gnuzilla/) |
+| [IceCat](https://www.gnu.org/software/gnuzilla/) |
 |:---:|
 | <a href="icecat"><img width=140 src="icecat/icecat_256x256.png" alt="IceCat browser logo"></a> |
 
 ### Iceweasel
 
-| [Iceweasel](https://packages.debian.org/wheezy/iceweasel) |
+| [Iceweasel](https://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project#IceWeasel) |
 |:---:|
 | <a href="iceweasel"><img width=140 src="iceweasel/iceweasel_256x256.png" alt="Iceweasel browser logo"></a> |
 
 ### Internet Explorer
 
-| Internet Explorer <br>[9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | [Internet Explorer <br>Developer Channel](http://devchannel.modern.ie/) | Internet Explorer <br>[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile |
+| Internet Explorer <br>[9](http://windows.microsoft.com/en-gb/internet-explorer/ie-9-worldwide-languages) / [10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) | Internet Explorer <br>[10](http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages) / [11](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages) tile | [Internet Explorer <br>Developer Channel](https://devchannel.modern.ie/) |
 |:---:|:---:|:---:|
-| <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> |
+| <a href="internet-explorer"><img width=140 src="internet-explorer/internet-explorer_256x256.png"alt="Internet Explorer 9, 10 and 11 browser logo"></a> | <a href="internet-explorer-tile"><img width=140 src="internet-explorer-tile/internet-explorer-tile_256x256.png" alt="Internet Explorer 10 and 11 start screen tile"></a> | <a href="internet-explorer-developer-channel"><img width=140 src="internet-explorer-developer-channel/internet-explorer-developer-channel_256x256.png" alt="Internet Explorer Developer Channel browser logo"></a> |
 
-### K9
+### K-Meleon
 
-| [K9](http://www1.k9webprotection.com/) |
+| [K-Meleon](http://kmeleonbrowser.org/) |
 |:---:|
-| <a href="k9"><img width=140 src="k9/k9_256x256.png" alt="K9 browser logo"></a> |
-
-### KidZui
-
-| [KidZui](http://www.kidzui.com/) |
-|:---:|
-| <a href="kidzui"><img width=140 src="kidzui/kidzui_256x256.png" alt="KidZui Browser logo"></a> |
+| <a href="k-meleon"><img width=140 src="k-meleon/k-meleon_256x256.png" alt="K-Meleon browser logo"></a> |
 
 ### Konqueror
 
-| [Konqueror](http://www.konqueror.org/) |
+| [Konqueror](https://www.konqueror.org/) |
 |:---:|
 | <a href="konqueror"><img width=140 src="konqueror/konqueror_256x256.png" alt="Konqueror browser logo"></a> |
-
-### Kylo
-
-| [Kylo](http://kylo.tv/) |
-|:---:|
-| <a href="kylo"><img width=140 src="kylo/kylo_256x256.png" alt="Kylo browser logo"></a> |
 
 ### Lightning
 
@@ -213,12 +173,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="link-bubble"><img width=140 src="link-bubble/link-bubble_256x256.png" alt="Link Bubble browser logo"></a> |
 
-### Lunascape
-
-| [iLunascape (Android)](http://www.lunascape.tv/) | [iLunascape (iOS)](http://www.lunascape.tv/) |[iLunascape Lite (iOS)](http://www.lunascape.tv/) |
-|:---:|:---:|:---:|
-| <a href="ilunascape-android"><img width=140 src="ilunascape-android/ilunascape-android_256x256.png" alt="iLunascape for Android browser logo"></a> | <a href="ilunascape-ios"><img width=140 src="ilunascape-ios/ilunascape-ios_256x256.png" alt="iLunascape for iOS browser logo"></a> | <a href="ilunascape-lite-ios"><img width=140 src="ilunascape-lite-ios/ilunascape-lite-ios_256x256.png" alt="iLunascape Lite for iOS browser logo"></a> |
-
 ### Maxthon
 
 | [Maxthon](http://www.maxthon.com/) | [Maxthon Beta](http://www.maxthon.com/) |
@@ -227,7 +181,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Mercury
 
-| [Mercury](http://mercury-browser.com/) |
+| [Mercury](https://mercury-browser.com/) |
 |:---:|
 | <a href="mercury"><img width=140 src="mercury/mercury_256x256.png" alt="Mercury browser logo"></a> |
 
@@ -249,23 +203,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="mihtool"><img width=140 src="mihtool/mihtool_256x256.png" alt="MIHTool browser logo"></a> |
 
-### Mobicip
-
-| [Mobicip](http://www.mobicip.com/products) |
-|:---:|
-| <a href="mobicip"><img width=140 src="mobicip/mobicip_256x256.png" alt="Mobicip browser logo"></a> |
-
 ### NetSurf
 
 | [NetSurf](http://www.netsurf-browser.org/) |
 |:---:|
 | <a href="netsurf"><img width=140 src="netsurf/netsurf_256x256.png" alt="NetSurf browser logo"></a> |
-
-### Next
-
-| [Next](http://nextbrowser.goforandroid.com/) |
-|:---:|
-| <a href="next"><img width=140 src="next/next_256x256.png" alt="Next browser logo"></a> |
 
 ### Ninesky
 
@@ -273,23 +215,11 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="ninesky"><img width=140 src="ninesky/ninesky_256x256.png" alt="Ninesky browser logo"></a> |
 
-### NLIA
-
-| [NLIA](http://e.netpia.com/) |
-|:---:|
-| <a href="nlia"><img width=140 src="nlia/nlia_256x256.png" alt="NLIA browser logo"></a> |
-
 ### OmniWeb
 
-| [OmniWeb](http://www.omnigroup.com/products/omniweb/) |
-|:---:|
-| <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> |
-
-### ONE
-
-| [ONE (Android)](http://one-browser.com/mobile/home) | [ONE (iPhone)](http://one-browser.com/mobile/home) |
+| [OmniWeb](https://www.omnigroup.com/more) | [OmniWeb<br>Test Build](https://omnistaging.omnigroup.com/omniweb/) |
 |:---:|:---:|
-| <a href="one-android"><img width=140 src="one-android/one-android_256x256.png" alt="ONE for Android browser logo"></a> | <a href="one-iphone"><img width=140 src="one-iphone/one-iphone_256x256.png" alt="ONE for iPhone browser logo"></a> |
+| <a href="omniweb"><img width=140 src="omniweb/omniweb_256x256.png" alt="OmniWeb browser logo"></a> | <a href="omniweb-test-build"><img width=140 src="omniweb-test-build/omniweb-test-build_256x256.png" alt="OmniWeb Test Build browser logo"></a> |
 
 ### Onion
 
@@ -299,31 +229,31 @@ logos are high resolution with transparent backgrounds.
 
 ### Opera
 
-| [Opera](http://www.opera.com/) | [Opera Next](http://www.opera.com/next/) | [Opera Developer](http://www.opera.com/developer) |
+| [Opera](http://www.opera.com/) | [Opera Beta](http://www.opera.com/computer/beta) | [Opera Developer](http://www.opera.com/developer) |
 |:---:|:---:|:---:|
-| <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-next"><img width=140 src="opera-next/opera-next_256x256.png" alt="Opera Next browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> |
+| <a href="opera"><img width=140 src="opera/opera_256x256.png" alt="Opera browser logo"></a> | <a href="opera-beta"><img width=140 src="opera-beta/opera-beta_256x256.png" alt="Opera Beta browser logo"></a> | <a href="opera-developer"><img width=140 src="opera-developer/opera-developer_256x256.png" alt="Opera Developer browser logo"></a> |
 
-### Orweb
+### Opera Mini
 
-| [Orweb](https://guardianproject.info/apps/orweb/) |
+| [Opera Mini](http://www.opera.com/mobile/mini) | [Opera Mini Beta](http://www.opera.com/mobile/mini) |
+|:---:|:---:|
+| <a href="opera-mini"><img width=140 src="opera-mini/opera-mini_256x256.png" alt="Opera Mini browser logo"></a> | <a href="opera-mini-beta"><img width=140 src="opera-mini-beta/opera-mini-beta_256x256.png" alt="Opera Mini Beta browser logo"></a> |
+
+### Orbitum
+
+| [Orbitum](https://orbitum.com/) |
 |:---:|
-| <a href="orweb"><img width=140 src="orweb/orweb_256x256.png" alt="Orweb browser logo"></a> |
+| <a href="orbitum"><img width=140 src="orbitum/orbitum_256x256.png" alt="Orbitum browser logo"></a> |
 
 ### Pale Moon
 
-| [Pale Moon](http://www.palemoon.org/) |
+| [Pale Moon](https://www.palemoon.org/) |
 |:---:|
 | <a href="pale-moon"><img width=140 src="pale-moon/pale-moon_256x256.png" alt="Pale Moon browser logo"></a> |
 
-### Photon
-
-| [Photon](http://www.appsverse.com/) |
-|:---:|
-| <a href="photon"><img width=140 src="photon/photon_256x256.png" alt="Photon browser logo"></a> |
-
 ### Puffin
 
-| [Puffin](http://www.puffinbrowser.com/) |
+| [Puffin](https://www.puffinbrowser.com/) |
 |:---:|
 | <a href="puffin"><img width=140 src="puffin/puffin_256x256.png" alt="Puffin browser logo"></a> |
 
@@ -335,15 +265,15 @@ logos are high resolution with transparent backgrounds.
 
 ### rekonq
 
-| [rekonq](http://rekonq.kde.org/) |
+| [rekonq](https://rekonq.kde.org/) |
 |:---:|
 | <a href="rekonq"><img width=140 src="rekonq/rekonq_256x256.png" alt="rekonq browser logo"></a> |
 
 ### Safari
 
-| [Safari](http://www.apple.com/safari/) | [Safari 8](https://www.apple.com/osx/preview/) | [Safari (iOS)](http://www.apple.com/safari/) |
-|:---:|:---:|:---:|
-| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari_8"><img width=140 src="safari_8/safari_8_256x256.png" alt="Safari 8 browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
+| [Safari](https://www.apple.com/safari/) | [Safari (iOS)](https://www.apple.com/safari/) |
+|:---:|:---:|
+| <a href="safari"><img width=140 src="safari/safari_256x256.png" alt="Safari browser logo"></a> | <a href="safari-ios"><img width=140 src="safari-ios/safari-ios_256x256.png" alt="Safari for iOS browser logo"></a> |
 
 ### SeaMonkey
 
@@ -351,17 +281,17 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="seamonkey"><img width=140 src="seamonkey/seamonkey_256x256.png" alt="SeaMonkey browser logo"></a> |
 
-### Skyfire
+### Silk
 
-| [Skyfire (Android)](http://www.skyfire.com/) | [Skyfire (iOS)](http://www.skyfire.com/) |
-|:---:|:---:|
-| <a href="skyfire-android"><img width=140 src="skyfire-android/skyfire-android_256x256.png" alt="Skyfire for Android browser logo"></a> | <a href="skyfire-ios"><img width=140 src="skyfire-ios/skyfire-ios_256x256.png" alt="Skyfire for iOS browser logo"></a> |
+| [Silk](https://amazonsilk.wordpress.com/) |
+|:---:|
+| <a href="silk"><img width=140 src="silk/silk_256x256.png" alt="Silk browser logo"></a> |
 
 ### Sleipnir
 
-| [Sleipnir (Android)](http://www.fenrir-inc.com/us/android/apps/sleipnir-mobile.html) | [Sleipnir (iOS)](http://www.fenrir-inc.com/us/iphone/apps/sleipnir-mobile.html) | [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
-|:---:|:---:|:---:|:---:|
-| <a href="sleipnir-android"><img width=140 src="sleipnir-android/sleipnir-android_256x256.png" alt="Sleipnir for Android browser logo"></a> | <a href="sleipnir-ios"><img width=140 src="sleipnir-ios/sleipnir-ios_256x256.png" alt="Sleipnir for iOS browser logo"></a> | <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a>
+| [Sleipnir (Mac)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Mobile)](http://www.fenrir-inc.com/us/sleipnir-family/) | [Sleipnir (Windows)](http://www.fenrir-inc.com/us/sleipnir-family/) |
+|:---:|:---:|:---:|
+| <a href="sleipnir-mac"><img width=140 src="sleipnir-mac/sleipnir-mac_256x256.png" alt="Sleipnir for Mac browser logo"></a> | <a href="sleipnir-mobile"><img width=140 src="sleipnir-mobile/sleipnir-mobile_256x256.png" alt="Sleipnir Mobile browser logo"></a> | <a href="sleipnir-windows"><img width=140 src="sleipnir-windows/sleipnir-windows_256x256.png" alt="Sleipnir for Windows browser logo"></a> |
 
 ### SlimBoat
 
@@ -375,18 +305,6 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="sogou-mobile"><img width=140 src="sogou-mobile/sogou-mobile_256x256.png" alt="Sogou Mobile browser logo"></a> |
 
-### Stainless
-
-| [Stainless](http://www.stainlessapp.com/) |
-|:---:|
-| <a href="stainless"><img width=140 src="stainless/stainless_256x256.png" alt="Stainless browser logo"></a> |
-
-### Super Fast
-
-| [Super Fast](http://www.sfbrowser.com/) |
-|:---:|
-| <a href="superfast"><img width=140 src="superfast/superfast_256x256.png" alt="Super Fast browser logo"></a> |
-
 ### Tor
 
 | [Tor](https://www.torproject.org/) |
@@ -395,7 +313,7 @@ logos are high resolution with transparent backgrounds.
 
 ### Torch
 
-| [Torch](http://www.torchbrowser.com/) |
+| [Torch](https://www.torchbrowser.com/) |
 |:---:|
 | <a href="torch"><img width=140 src="torch/torch_256x256.png" alt="Torch browser logo"></a> |
 
@@ -405,49 +323,40 @@ logos are high resolution with transparent backgrounds.
 |:---:|
 | <a href="uc"><img width=140 src="uc/uc_256x256.png" alt="UC browser logo"></a> |
 
-### Vitrum
+### Vivaldi
 
-| [Vitrum](http://capablebits.com/) |
+| [Vivaldi](https://vivaldi.com/) |
 |:---:|
-| <a href="vitrum"><img width=140 src="vitrum/vitrum_256x256.png" alt="Vitrum browser logo"></a> |
+| <a href="vivaldi"><img width=140 src="vivaldi/vivaldi.png" alt="Vivaldi browser logo"></a> |
+
+### WaterFox
+
+| [WaterFox](https://www.waterfoxproject.org/) |
+|:---:|
+| <a href="waterfox"><img width=140 src="waterfox/waterfox.png" alt="WaterFox browser logo"></a> |
 
 ### Web
 
-| [Web (f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
+| [Web <br>(f.k.a. Epiphany)](https://wiki.gnome.org/Apps/Web) |
 |:---:|
 | <a href="web"><img width=140 src="web/web.png" alt="Web (f.k.a. Epiphany) browser logo"></a> |
 
 ### WebKit
 
-| [WebKit](http://nightly.webkit.org/) |
+| [WebKit Nightly](http://nightly.webkit.org/) |
 |:---:|
-| <a href="webkit"><img width=140 src="webkit/webkit_256x256.png" alt="WebKit browser logo"></a> |
-
-### Wyzo
-
-| [Wyzo](http://www.wyzo.com/) |
-|:---:|
-| <a href="wyzo"><img width=140 src="wyzo/wyzo_256x256.png" alt="Wyzo browser logo"></a> |
+| <a href="webkit-nightly"><img width=140 src="webkit-nightly/webkit-nightly_256x256.png" alt="WebKit Nightly browser logo"></a> |
 
 ### Yandex
 
-| [Yandex](http://browser.yandex.com/) |
+| [Yandex](https://browser.yandex.com/) |
 |:---:|
 | <a href="yandex"><img width=140 src="yandex/yandex_256x256.png" alt="Yandex browser logo"></a> |
 
 ### Archive
 
 For logos of browsers that are no longer active, or for older logos of the
-browsers listed above, check the [archive](archive) directory.
-
-### Browser Ponies
-
-| Chrome | Firefox | Internet Explorer | Opera | Safari |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="http://he4rtofcourage.deviantart.com/art/Chrome-poni-305866510"><img width=115 src="http://fc05.deviantart.net/fs70/i/2012/154/9/b/chrome_poni_by_he4rtofcourage-d523s3y.png" alt="Chrome browser pony logo"></a> | <a href="http://noreasontohope.deviantart.com/art/My-Little-Browser-Firefox-260640031"><img width=115 src="http://th08.deviantart.net/fs70/PRE/i/2013/142/8/9/my_little_browser__firefox_by_noreasontohope-d4b6f4v.png" alt="Firefox browser pony logo"></a> | <a href="http://mcsadat.deviantart.com/art/ie-just-don-t-know-what-went-wrong-306422360"><img width=115 src="http://fc03.deviantart.net/fs71/i/2012/156/0/b/ie_just_don__t_know_what_went_wrong_by_mcsadat-d52fp08.png" alt="Internet Explorer browser pony logo"></a> | <a href="http://parallaxmlp.deviantart.com/art/My-Little-Opera-306933368"><img width=115 src="http://th05.deviantart.net/fs71/PRE/i/2012/159/c/9/my_little_opera_by_parallaxmlp-d52qnaw.png" alt="Opera browser pony logo"></a> | <a href="http://parallaxmlp.deviantart.com/art/My-Little-Safari-307396501"><img width=115 src="http://th08.deviantart.net/fs70/PRE/i/2012/246/b/e/my_little_safari_by_parallaxmlp-d530knp.png" alt="Safari browser pony logo"></a> |
-
-[See more browser ponies!](http://paulirish.deviantart.com/favourites/51528712)
-
+browsers listed above, check the [archive](archive#readme) directory.
 
 ---
 
@@ -469,6 +378,16 @@ moment to review the [guidelines](CONTRIBUTING.md).
 * [Pull requests](CONTRIBUTING.md#pull-requests)
 
 
+## Getting the browser logos
+
+There are a few options for getting the browser logos:
+
+* Download the [zip archive](https://github.com/alrra/browser-logos/archive/12.0.1.zip)
+* Install them via:
+    * [npm](https://npmjs.org/): `npm install --save-dev alrra/browser-logos`
+    * [Bower](http://bower.io/): `bower install --save-dev browser-logos`
+
+
 ## Legal
 
 #### __All logos and trademarks are the property of their respective owners!__
@@ -481,5 +400,5 @@ takedown and we will remove it as soon as possible.
 
 ## Project origin and history
 
-Read [Paul Irish](https://github.com/paulirish/)'s [_"High-res Browser
-Logos"_](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
+Logos"](https://www.paulirish.com/2010/high-res-browser-icons/) blog post.
